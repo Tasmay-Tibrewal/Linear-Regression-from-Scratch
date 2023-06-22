@@ -23,3 +23,5 @@ The regress.py file is just a file to test the regression model and is optional.
 The stock_regression.py is the main python file. 
 
 There are 2 datasets one for train and another for test. Download both of them.
+
+Save them at the same destination folder.
