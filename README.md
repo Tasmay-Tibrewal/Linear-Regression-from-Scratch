@@ -1,5 +1,7 @@
 # Linear-Regression-from-Scratch
-Creating a linear regression model for Stock Market Data from scratch for an extremely low correlation for (Adj. Close vs Volumes)
+Creating a linear regression model for Stock Market Data from scratch for an extremely low correlation for (Adj. Close vs Volumes) using just python lists and no other modules. 
+
+Note: Numpy and Matplotlib are used but only for plotting and not for calculation/regression part.
 
 Coming up with an alternate idea to increase correlation (Using a linear relation between Adj. Close price and Close price vs Volume)
 
