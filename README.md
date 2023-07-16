@@ -15,6 +15,8 @@ Plotting both before and after finding outliers.
 
 Looking at the final performances of both the original and outlier filtered models on both the training and the test dataset using RMSE errors.
 
+New: Regress 2 shows the plot for the cost function with logarithmic cost, logarithmic slope (x) and bias (y). (Ignore the labels of x as it's values are wrong) Regress 3 does a normal linear regression but stops at cost function at around 2. This is because the drop is very shallow and for different alphas as well it skips the minima.
+
 
 # Instructions to Download:
 
